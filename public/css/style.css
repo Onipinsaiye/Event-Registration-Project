@@ -1,0 +1,42 @@
+html{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    min-height: 100px;
+
+}
+form{
+    width: 50%;
+    height: 420px;
+    margin: auto;
+    border: 2px solid black;
+    background-image: -webkit-linear-gradient(55deg, #6A93D9 55%, #CDB4DB 45%);
+}
+.btn{
+    width: 30%;
+    margin-top: 30px;
+    height: 10%;
+    background-color: #9ACD32;
+    border-radius: 8px;
+    border-color: #9ACD32;
+}
+.container{
+    margin-top: 5%;
+
+}
+input{
+    margin-top: 30px;
+    height: 10%;
+    width: 70%;
+    border-radius: 5px;
+    font-family: cursive;
+    font-weight: bolder;
+    font-size: medium;
+}
+.footer{
+    margin-bottom: 20%;
+    font-family: sans-serif;
+    margin-top: 30px;
+}
+img{
+    border-radius: 50%;
+}
